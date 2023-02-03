@@ -138,6 +138,7 @@ body * {
 .message.you .body {
   background-color: var(--message-color-you);
   border-radius: 0.8rem 0.8rem 0 0.8rem;
+  margin-left: auto;
 }
 
 form {
